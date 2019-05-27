@@ -18,7 +18,7 @@ public class JourneyDetails implements Serializable {
 	private int id;
 	private String journeyTime;
 	private String route;
-	//@JsonIgnore
+	@JsonIgnore
 	private Date journetDateTime;
 	private int numberOfTravels;
 	
