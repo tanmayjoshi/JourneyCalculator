@@ -36,6 +36,7 @@ Steps To Follow:
 		"route": "Nehru Nagar"
 	  }
 	  
-Note : Please follow the date time format as "2019/05/27/22:00:34" --> "yyyy/MM/dd/HH:mm:ss"
+Note : 1. Please follow the date time format as "2019/05/27/22:00:34" --> "yyyy/MM/dd/HH:mm:ss" \n
+       2. Please Verfify the console output
 
 
